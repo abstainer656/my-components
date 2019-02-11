@@ -1,1 +1,1 @@
-# my-components
+egyszerû footer # my-components
